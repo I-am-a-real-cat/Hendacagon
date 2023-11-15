@@ -1,3 +1,4 @@
+
 let slideIndex = 1;
 showSlides(slideIndex);
 
@@ -32,3 +33,4 @@ showSlides(slideIndex);
     let value=window.scrollY;
     wrv.style.left=value*0.045+'vw'; 
 });
+

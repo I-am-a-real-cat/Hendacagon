@@ -27,7 +27,7 @@ nav{
     
    }
 .menu a{color: black;
-    margin-right: 9vw;
+    margin-right: 8vw;
     text-decoration: none; 
     font-family:Cloud Soft;
 }
@@ -68,7 +68,7 @@ cursor: pointer;
 
 .e{
   float: right;
-  margin-left: -2vw; 
+  margin-left: -1vw; 
  
    
 }
@@ -81,7 +81,7 @@ cursor: pointer;
 .me li{display: inline-block;
 }
 .me a{color: black;   
-    margin-left: 9vw;
+    margin-left: 8vw;
     text-decoration: none;
     font-family:Cloud Soft;
 }

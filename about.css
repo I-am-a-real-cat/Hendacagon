@@ -37,7 +37,7 @@ nav:hover{
     
    }
 .menu a{color: black;
-    margin-right: 9vw;
+    margin-right: 8vw;
     text-decoration: none; 
     font-family:Cloud Soft;
 }
@@ -76,7 +76,7 @@ nav:hover{
     .me li{display: inline-block;
     }
     .me a{color: black;   
-        margin-left: 9vw;
+        margin-left: 8vw;
         text-decoration: none;
         font-family:Cloud Soft;
     }
